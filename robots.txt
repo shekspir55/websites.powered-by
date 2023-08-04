@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://shekspir55.github.io/websites.powered-by/sitemap.xml
